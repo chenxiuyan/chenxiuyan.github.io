@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://chenxiuyan.github.io/2018/10/30/springboot-mybatis/</loc>
+    
+    <lastmod>2018-11-09T10:33:22.605Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://chenxiuyan.github.io/2018/11/09/springboot-mybatis2/</loc>
+    
+    <lastmod>2018-11-09T10:13:40.824Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://chenxiuyan.github.io/springboot-mybatis/index.html</loc>
     
     <lastmod>2018-11-08T17:38:38.748Z</lastmod>
