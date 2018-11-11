@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://chenxiuyan.github.io/2018/10/19/hello-world/</loc>
+    
+    <lastmod>2018-11-11T09:57:10.755Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://chenxiuyan.github.io/categories/index.html</loc>
+    
+    <lastmod>2018-11-09T14:09:19.835Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://chenxiuyan.github.io/2018/10/30/springboot-mybatis/</loc>
     
     <lastmod>2018-11-09T11:11:27.165Z</lastmod>
@@ -9,7 +23,7 @@
   </url>
   
   <url>
-    <loc>https://chenxiuyan.github.io/2018/11/09/springboot-mybatis2/</loc>
+    <loc>https://chenxiuyan.github.io/springboot-mybatis/springboot-mybatis2.html</loc>
     
     <lastmod>2018-11-09T10:13:40.824Z</lastmod>
     
@@ -37,21 +51,7 @@
   </url>
   
   <url>
-    <loc>https://chenxiuyan.github.io/categories/index.html</loc>
-    
-    <lastmod>2018-10-21T15:04:22.746Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://chenxiuyan.github.io/2018/10/19/%E4%BD%A0%E5%A5%BD-hexo-test/</loc>
-    
-    <lastmod>2018-10-18T18:16:24.868Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://chenxiuyan.github.io/2018/10/19/hello-world/</loc>
+    <loc>https://chenxiuyan.github.io/springboot-mybatis/hello-world.html</loc>
     
     <lastmod>2018-10-18T16:14:10.050Z</lastmod>
     
