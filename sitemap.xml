@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://chenxiuyan.github.io/categories/index.html</loc>
+    
+    <lastmod>2018-11-13T08:32:38.495Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://chenxiuyan.github.io/tags/index.html</loc>
+    
+    <lastmod>2018-11-13T08:32:12.781Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://chenxiuyan.github.io/2018/10/19/hello-world/</loc>
     
     <lastmod>2018-11-12T17:11:57.786Z</lastmod>
@@ -16,23 +30,9 @@
   </url>
   
   <url>
-    <loc>https://chenxiuyan.github.io/categories/index.html</loc>
-    
-    <lastmod>2018-11-09T14:09:19.835Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://chenxiuyan.github.io/about/index.html</loc>
     
     <lastmod>2018-10-22T09:47:50.512Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://chenxiuyan.github.io/tags/index.html</loc>
-    
-    <lastmod>2018-10-21T15:12:50.021Z</lastmod>
     
   </url>
   
